@@ -10,12 +10,10 @@ import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.channel.concrete.TextChannel;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 
-import javax.security.auth.login.LoginException;
-
 public class bot {
     public static JDA jda;
 
-    public static void main(String[]args)throws LoginException, InterruptedException{
+    public static void main(String[]args)throws InterruptedException{
         Settings.getConfig();
         JDABuilder jdabuilder = JDABuilder.createDefault(Settings.discordToken);
 
