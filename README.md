@@ -66,6 +66,6 @@ This project is licensed under the [GPL 3.0 License](LICENSE).
 ## Contact
 
 - **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko-gg/discord-rss-bot
+- **Project Link** - https://github.com/druffko/discord-rss-bot
 
 Feel free to reach out if you have any questions or suggestions!
