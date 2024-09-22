@@ -1,3 +1,4 @@
+![Repo-Image](https://druffko.gg/github-images/rss-bot.png)
 
 # Discord-RSS-Bot
 
